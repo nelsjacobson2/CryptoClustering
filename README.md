@@ -75,8 +75,4 @@ After executing the script, you will obtain the following results:
 
 If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
